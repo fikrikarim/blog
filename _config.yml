@@ -4,7 +4,7 @@ email:       fkfikrikarim@gmail.com
 author:      Fikri
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://www.fikrikarim.com"
 date_format: "%b %-d, %Y"
 
 # Google services
