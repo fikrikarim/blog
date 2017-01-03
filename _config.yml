@@ -8,7 +8,7 @@ url:         "https://www.fikrikarim.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: z-50xsTuSOFc4nSis7ftAMb5cSUxGuNDE_rzfme_EnU
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
