@@ -1,7 +1,7 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Fikri Karim
+email:       fkfikrikarim@gmail.com
+author:      Fikri
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -42,10 +42,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: fikrikarim
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: fikrikarim
 skype_username:
 steam_nickname:
 google_plus_id:
